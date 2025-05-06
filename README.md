@@ -1,4 +1,4 @@
-# MEGA STORE SALES DASHBOARD
+# Mega Store Sales Dashboard
 
 <img width="1309" alt="Mega Store Sales Dashboard" src="https://github.com/user-attachments/assets/3b781138-ed93-463b-89ed-709a59ad77c1" />
 
